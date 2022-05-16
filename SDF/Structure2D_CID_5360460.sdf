@@ -1,0 +1,183 @@
+5360460
+  -OEChem-03282215562D
+
+ 34 34  0     0  0  0  0  0  0999 V2000
+    5.8301    2.1830    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    1.3170    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    1.8170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301    0.4510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.8170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.3170    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.8170    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.4151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    1.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -1.2811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6636    0.8420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4607    0.8420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8552   -0.0165    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8552   -0.8136    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2382    1.2800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    2.1270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6182    2.3539    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2932   -1.5911    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1401   -1.8180    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3671   -0.9711    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -0.3730    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.3730    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -1.9930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.9930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.8030    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 19  3  0  0  0  0
+  8 11  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5360460
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+389
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMAJAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAEACAADAihmAIyAIAQARCwByBiAAACAAAgAAAIiAAgAJgIoKKAERCAIAAggAAIiA8AgIAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(E)-N-diethoxyphosphinothioyloxybenzimidoyl cyanide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2E)-2-diethoxyphosphinothioyloxyimino-2-phenylacetonitrile
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(<I>E</I>)-<I>N</I>-diethoxyphosphinothioyloxybenzenecarboximidoyl cyanide
+
+> <PUBCHEM_IUPAC_NAME>
+(E)-N-diethoxyphosphinothioyloxybenzenecarboximidoyl cyanide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2E)-2-diethoxyphosphinothioyloxyimino-2-phenyl-ethanenitrile
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2E)-2-diethoxythiophosphoryloximino-2-phenyl-acetonitrile
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H15N2O3PS/c1-3-15-18(19,16-4-2)17-14-12(10-13)11-8-6-5-7-9-11/h5-9H,3-4H2,1-2H3/b14-12-
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ATROHALUCMTWTB-OWBHPGMISA-N
+
+> <PUBCHEM_XLOGP3>
+4.4
+
+> <PUBCHEM_EXACT_MASS>
+298.05410052
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H15N2O3PS
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+298.30
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCOP(=S)(OCC)ON=C(C#N)C1=CC=CC=C1
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCOP(=S)(OCC)O/N=C(/C#N)\C1=CC=CC=C1
+
+> <PUBCHEM_CACTVS_TPSA>
+95.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+298.05410052
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  13  8
+10  14  8
+13  16  8
+14  17  8
+16  18  8
+17  18  8
+
+$$$$

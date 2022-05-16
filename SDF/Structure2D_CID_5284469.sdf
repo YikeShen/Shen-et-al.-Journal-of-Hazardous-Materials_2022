@@ -1,0 +1,166 @@
+5284469
+  -OEChem-03282216202D
+
+ 26 27  0     1  0  0  0  0  0999 V2000
+    4.3622   -1.4824    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.1387    1.4154    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.2297    1.8388    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.2478    2.4266    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8257   -2.0148    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.2538    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.0380   -2.4266    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.0019   -2.4266    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.6210   -0.5165    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.0200   -1.0253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8798    0.4494    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.1432    1.4320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2483   -1.1085    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.9063   -0.1688    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.2788   -0.0594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9335   -1.4320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9154   -2.0198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1448    0.4406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6803   -1.5533    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9474    0.4498    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5520   -1.4753    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0835   -0.8305    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0654   -2.6214    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5339   -1.9766    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6818    0.1306    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1448    1.0606    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 18 26  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5284469
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+403
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+0
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwAAAHgAAAAAAAAAAAAAAAAYMAAAAwAAAAAAAAAAAAAAAAGAIAAAAADgOAAMAAAAAAAACAAgBCAAAAAAAgAAAAAEAAAggAAAIBAAAAAAAAgAAAAAEAgMAPgAAAAAAAAAAIACRAASIACRAASIACAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,4,5,6,7,7-hexachloro-2,2-bis(chloromethyl)-3-methylene-norbornane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,4,5,6,7,7-hexachloro-2,2-bis(chloromethyl)-3-methylenebicyclo[2.2.1]heptane
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,4,5,6,7,7-hexachloro-2,2-bis(chloromethyl)-3-methylidenebicyclo[2.2.1]heptane
+
+> <PUBCHEM_IUPAC_NAME>
+1,4,5,6,7,7-hexachloro-2,2-bis(chloromethyl)-3-methylidenebicyclo[2.2.1]heptane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,4,5,6,7,7-hexakis(chloranyl)-2,2-bis(chloromethyl)-3-methylidene-bicyclo[2.2.1]heptane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,4,5,6,7,7-hexachloro-2,2-bis(chloromethyl)-3-methylene-norbornane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H8Cl8/c1-4-7(2-11,3-12)9(16)6(14)5(13)8(4,15)10(9,17)18/h5-6H,1-3H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OEJNXTAZZBRGDN-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.7
+
+> <PUBCHEM_EXACT_MASS>
+411.807522
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H8Cl8
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+411.8
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl
+
+> <PUBCHEM_CACTVS_TPSA>
+0
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+407.813422
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+4
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  12  3
+13  5  3
+14  6  3
+9  12  3
+
+$$$$
