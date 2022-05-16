@@ -1,0 +1,184 @@
+90479
+  -OEChem-03282215352D
+
+ 34 34  0     1  0  0  0  0  0999 V2000
+    7.6962    0.3240    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    1.1900    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320   -0.8100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6962    2.0560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.6900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -2.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -1.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6962    2.0560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.2731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -1.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860    0.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460    0.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9272   -2.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -0.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -2.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -2.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    2.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    1.3800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6962    2.6760    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0762    2.0560    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6962    1.4360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 30  1  0  0  0  0
+  7 31  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 15  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+90479
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+337
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByOAJAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAGgAQgCAADBSgmAIyDoAABRCIAiDSCAACAAAkIAAIiAEGCMgIJzaANRqCMUAl4BEIqYeIyCCOAAAAAAAIAAAAAAAAABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+isopropyl 2-[amino(methoxy)phosphinothioyl]oxybenzoate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-[amino(methoxy)phosphinothioyl]oxybenzoic acid propan-2-yl ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+propan-2-yl 2-[amino(methoxy)phosphinothioyl]oxybenzoate
+
+> <PUBCHEM_IUPAC_NAME>
+propan-2-yl 2-[amino(methoxy)phosphinothioyl]oxybenzoate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+propan-2-yl 2-[azanyl(methoxy)phosphinothioyl]oxybenzoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-[amino(methoxy)thiophosphoryl]oxybenzoic acid isopropyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H16NO4PS/c1-8(2)15-11(13)9-6-4-5-7-10(9)16-17(12,18)14-3/h4-8H,1-3H3,(H2,12,18)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YFVOXLJXJBQDEF-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+2.4
+
+> <PUBCHEM_EXACT_MASS>
+289.05376616
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H16NO4PS
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+289.29
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C)OC(=O)C1=CC=CC=C1OP(=S)(N)OC
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C)OC(=O)C1=CC=CC=C1OP(=S)(N)OC
+
+> <PUBCHEM_CACTVS_TPSA>
+103
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+289.05376616
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  15  8
+14  16  8
+15  17  8
+16  17  8
+2  7  3
+9  10  8
+9  14  8
+
+$$$$

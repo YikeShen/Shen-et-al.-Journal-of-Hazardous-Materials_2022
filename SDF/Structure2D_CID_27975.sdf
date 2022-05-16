@@ -1,0 +1,181 @@
+27975
+  -OEChem-03282213592D
+
+ 32 33  0     1  0  0  0  0  0999 V2000
+    5.5443    0.0869    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8550    2.6469    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.1084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.1084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.6084    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1279    0.8916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5443    1.6964    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981    1.3916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.3916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9369    1.4794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9369    0.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.8916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.1084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.3916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.3916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.6084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.1084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9446    2.2987    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3014    0.9778    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4385    1.8438    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5725    1.9810    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5725   -0.1977    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4385   -0.0606    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3014    0.8054    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.5116    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4409    3.1084    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    1.7016    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    0.0816    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -2.9184    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -2.5714    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -3.4184    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -3.6453    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+27975
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+305
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByOAAAAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAEgBAAAAHgAQCAAADFSgmAYyDoLABgCIAiBCGAACCAAgIAAIiIAOiIkNNyKEMRqKeiKlwhELuAfA4PwOAAABAAAIQAAAAAIAABCAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(3-hydroxy-2,2-dimethyl-3H-benzofuran-7-yl) N-methylcarbamate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-methylcarbamic acid (3-hydroxy-2,2-dimethyl-3H-benzofuran-7-yl) ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(3-hydroxy-2,2-dimethyl-3<I>H</I>-1-benzofuran-7-yl) <I>N</I>-methylcarbamate
+
+> <PUBCHEM_IUPAC_NAME>
+(3-hydroxy-2,2-dimethyl-3H-1-benzofuran-7-yl) N-methylcarbamate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2,2-dimethyl-3-oxidanyl-3H-1-benzofuran-7-yl) N-methylcarbamate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N-methylcarbamic acid (3-hydroxy-2,2-dimethyl-coumaran-7-yl) ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H15NO4/c1-12(2)10(14)7-5-4-6-8(9(7)17-12)16-11(15)13-3/h4-6,10,14H,1-3H3,(H,13,15)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+RHSUJRQZTQNSLL-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+1.2
+
+> <PUBCHEM_EXACT_MASS>
+237.10010796
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H15NO4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+237.25
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1(C(C2=C(O1)C(=CC=C2)OC(=O)NC)O)C
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1(C(C2=C(O1)C(=CC=C2)OC(=O)NC)O)C
+
+> <PUBCHEM_CACTVS_TPSA>
+67.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+237.10010796
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+12  14  8
+13  15  8
+14  15  8
+7  18  3
+8  12  8
+8  9  8
+9  13  8
+
+$$$$
