@@ -44,7 +44,7 @@ all_names = pd.read_csv('Pesticide_CID_CASID_033022.csv')
 
 #turn columns to list
 names = list(all_names['name'])
-#cid_name = list(all_names['cid_name'])
+cid_name = list(all_names['cid_name'])
 cid_name = [str(v) for v in cid_name]
 cas_name = list(all_names['cas_name'])
 
